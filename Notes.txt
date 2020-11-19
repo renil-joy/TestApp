@@ -2,4 +2,4 @@ Using GitHub
 
 Testing webhooks triggering Azure Function Apps
 
-with a second commit..
+with a second commit...
